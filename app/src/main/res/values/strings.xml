@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertsExample</string>
+    <string name="press_a_button_to_show_alert_dialog">Press a button to show Alert Dialog</string>
+    <string name="press_me">Press me!</string>
+</resources>
